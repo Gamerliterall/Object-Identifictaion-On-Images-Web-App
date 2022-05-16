@@ -1,0 +1,31 @@
+.heading
+{
+    color: lime;
+    font-size: 45px;
+}
+
+body{
+    background-size: cover;
+}
+
+.ns{
+    border-radius: 100px;
+}
+
+.gp{
+    border-radius: 100px;
+}
+
+.gpt{
+    border-radius: 100px;
+}
+
+.copy_right_footer{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+    bottom: 0px;
+    margin-bottom: 0;
+    background-color: lime;
+}
